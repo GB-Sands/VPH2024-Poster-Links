@@ -1,7 +1,7 @@
 # VPH2024-Poster-Links
 Links for terms used in VPH 2024 poster
 
-|----:|:----|:----|
+| ---- | ---- | ---- |
 | CWL | Common Workflow Language | <https://www.commonwl.org/> |
 | FAIR | Findable, Accessible, Interoperable, Reusable | <https://www.go-fair.org/fair-principles/> |
 | FHIR | Fast Healthcare Interoperability Resources | <https://hl7.org/fhir/> |
