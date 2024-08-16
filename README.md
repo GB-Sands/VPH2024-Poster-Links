@@ -1,6 +1,10 @@
-# VPH2024-Poster-Links
+# VPH2024 Poster Links
 Links for terms used in VPH 2024 poster
 
+Gregory B Sands
+Auckland Bioengineering Institute
+
+| Term | Name | Link |
 | ---- | ---- | ---- |
 | CWL | Common Workflow Language | <https://www.commonwl.org/> |
 | FAIR | Findable, Accessible, Interoperable, Reusable | <https://www.go-fair.org/fair-principles/> |
