@@ -1,8 +1,8 @@
 # VPH2024 Poster Links
 Links for terms used in VPH 2024 poster
 
-Gregory B Sands
-Auckland Bioengineering Institute
+### Gregory B Sands
+Auckland Bioengineering Institute, The University of Auckland, New Zealand
 
 | Term | Name | Link |
 | ---- | ---- | ---- |
