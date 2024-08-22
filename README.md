@@ -1,8 +1,8 @@
-# VPH2024 Poster Links
-Links for terms used in VPH 2024 poster
+# Incorporating Wearable Sensor Data into Research Workflows
+### Gregory B Sands <a href="https://orcid.org/0000-0002-7875-2099"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" height="24" width="24" ></a>
+Auckland Bioengineering Institute, University of Auckland, New Zealand
 
-### Gregory B Sands
-Auckland Bioengineering Institute, The University of Auckland, New Zealand
+Glossary and links for standards and abbreviations
 
 | Term | Name | Link |
 | ---- | ---- | ---- |
@@ -23,3 +23,5 @@ Auckland Bioengineering Institute, The University of Auckland, New Zealand
 | SQL	| Structured Query Language | <https://www.sqlite.org/> |
 | UCUM | Unified Codes for Units of Measure | <https://ucum.org/> |
 | Zarr | Open array storage format | <https://zarr.dev/> |
+
+### VPH 2024
