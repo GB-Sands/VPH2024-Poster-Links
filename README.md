@@ -6,6 +6,7 @@ Glossary and links for standards and abbreviations
 
 | Term | Name | Link |
 | ---- | ---- | ---- |
+|BioSignalML | Metadata for biosignals | <https://www.biosignalml.org/ontologies/2011/04/biosignalml.html> |
 | CWL | Common Workflow Language | <https://www.commonwl.org/> |
 | EDF/EDF+ | European Data Format | <https://www.edfplus.info/> |
 | FAIR | Findable, Accessible, Interoperable, Reusable | <https://www.go-fair.org/fair-principles/> |
